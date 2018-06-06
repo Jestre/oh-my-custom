@@ -1,1 +1,1 @@
-notica() { curl --data "d:$*" https://notica.us/?hWfZWWyc ; }
+notica() { curl --data "d:$*" https://notica.us/\?hWfZWWyc ; }
