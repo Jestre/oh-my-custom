@@ -1,6 +1,6 @@
 #  PHP if installed
 
-if [ -d "$(brew --prefix php)/bin ]; then
+if [ -d "$(brew --prefix php)/bin" ]; then
 	export PATH="$(brew --prefix php)/bin:$PATH"
 fi
 
