@@ -10,3 +10,5 @@ alias ta='todoist add'
 alias tm='todoist modify'
 alias ts='todoist sync'
 alias tdd='todoist delete'
+
+alias edit='docker run -ti --rm -v $(pwd):/home/developer/workspace jare/vim-bundle'

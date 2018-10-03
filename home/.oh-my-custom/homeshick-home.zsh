@@ -1,3 +1,3 @@
 
 #  Load Homeshick - https://github.com/andsens/homeshick
-source $HOME/.homesick/repos/homeshick/homeshick.sh
+source /usr/local/Cellar/homeshick/1.1.0/homeshick.sh
