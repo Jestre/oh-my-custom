@@ -1,6 +1,6 @@
 alias ls=exa
 
-alias o='/usr/local/bin/officers'
+alias o='/Users/swschulz/Devel/bin/officers'
 
 alias tl='todoist --project-namespace --namespace --color list'
 alias tcl='todoist --project-namespace --namespace --color completed-list'
