@@ -1,1 +1,1 @@
-#export PATH=$PATH:/Users/swschulz/.gem/ruby/2.6.0/bin
+export PATH=$PATH:/usr/local/lib/ruby/gems/2.7.0/bin
